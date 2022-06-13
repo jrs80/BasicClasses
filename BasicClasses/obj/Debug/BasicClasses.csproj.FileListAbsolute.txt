@@ -1,0 +1,8 @@
+C:\Git_Repos\BasicClasses\BasicClasses\bin\Debug\BasicClasses.exe.config
+C:\Git_Repos\BasicClasses\BasicClasses\bin\Debug\BasicClasses.exe
+C:\Git_Repos\BasicClasses\BasicClasses\bin\Debug\BasicClasses.pdb
+C:\Git_Repos\BasicClasses\BasicClasses\obj\Debug\BasicClasses.csproj.AssemblyReference.cache
+C:\Git_Repos\BasicClasses\BasicClasses\obj\Debug\BasicClasses.csproj.SuggestedBindingRedirects.cache
+C:\Git_Repos\BasicClasses\BasicClasses\obj\Debug\BasicClasses.csproj.CoreCompileInputs.cache
+C:\Git_Repos\BasicClasses\BasicClasses\obj\Debug\BasicClasses.exe
+C:\Git_Repos\BasicClasses\BasicClasses\obj\Debug\BasicClasses.pdb
